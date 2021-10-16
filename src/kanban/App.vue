@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Tiki Kanban"/>
+  <HelloWorld msg="Welcome to Kanban"/>
 </template>
 
 <script>
