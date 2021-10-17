@@ -1,4 +1,4 @@
-# vue-test-app
+# vue-cli-multipage-app
 
 ## Project setup
 ```
