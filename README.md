@@ -1,4 +1,4 @@
-# vue-cli-multipage-app
+# Vue 3 + Vue CLI multipage app
 
 ## Project setup
 ```
